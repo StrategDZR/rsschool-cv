@@ -17,7 +17,7 @@
     writing autotests for UI on js + protractor, ts + mocha, python + selenium
 1. Education:
 
-
+    _(including courses, seminars, lectures, online learning)_
 1. English:
 
     Upper Intermediate. I was leading retro meetings with American customer.
