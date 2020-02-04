@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+}
+
+div {
+    padding: 2%;
+}
+
+iframe {
+    width: 600px;
+    height: 850px;
+    border: none;
+    display: block;
+    margin: 0 auto;
+}
+
+img {
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    padding-bottom: inherit;
+}
