@@ -3,21 +3,19 @@ body {
     font-family: Arial, Verdana, Tahoma, sans-serif;
 }
 
-div {
-    padding: 2%;
+div.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 iframe {
     width: 600px;
     height: 850px;
     border: none;
-    display: block;
-    margin: 0 auto;
 }
 
 img {
     width: 600px;
-    margin: 0 auto;
-    display: block;
-    padding-bottom: inherit;
 }
