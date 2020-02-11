@@ -1,0 +1,21 @@
+body {
+    height: 100%;
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+}
+
+div.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+iframe {
+    width: 600px;
+    height: 850px;
+    border: none;
+}
+
+img {
+    width: 600px;
+}
